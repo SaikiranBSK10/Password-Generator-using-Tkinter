@@ -18,6 +18,11 @@ pyttsx3 module:pyttsx is a cross-platform text to speech library which is platfo
 # Note
 The output has two images.One image is on hello button and another image on take a screenshot button.Before running this code on your system.Make sure to change the path of the images in the code.If you don't do hello button and take a screenshot buttons won't display and it gives an error.
 # Output
+![](images/1.PNG)
+![](images/2.PNG)
+![](images/3.PNG)
+![](images/4.PNG)
+
 
 
 
